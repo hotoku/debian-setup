@@ -4,7 +4,7 @@ mkdir projects
 git clone git@github.com:hotoku/dot.git ~/projects/dot
 ln -s ~/projects/dot/bash_profile.bash .bash_profile
 ln -s ~/projects/dot/tmux.basic.conf .tmux.conf
-ln -s ~/projects/dot/.gitignore
+ln -s ~/projects/dot/.gitconfig
 
 
 git clone git@github.com:hotoku/hotoku-dot-emacs ~/projects/hotoku-dot-emacs
