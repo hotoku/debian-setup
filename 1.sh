@@ -11,7 +11,7 @@ git clone git@github.com:hotoku/hotoku-dot-emacs ~/projects/hotoku-dot-emacs
 ln -s ~/projects/hotoku-dot-emacs .emacs.d
 
 
-git clone git@github.com.hotoku:atweiden/fzf-extras ~/projects/dot/fzf-extras
+git clone git@github.com:atweiden/fzf-extras ~/projects/dot/fzf-extras
 
 
 cat ~/projects/dot/requirements.system | xargs sudo apt install -y
